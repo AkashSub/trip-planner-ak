@@ -1,0 +1,217 @@
+{
+  "activities": [
+    {
+      "comments": [],
+      "date": "2025-01-16",
+      "description": "",
+      "dislikes": [],
+      "endTime": "12:45",
+      "googleMapsUrl": "",
+      "id": "157331c4-d80b-4170-a0b5-10a810913f9b",
+      "lastModified": "2025-01-23T13:25:13.924133",
+      "likes": [
+        "Akash"
+      ],
+      "location": "",
+      "startTime": "12:30",
+      "title": "test2 edir"
+    },
+    {
+      "comments": [
+        {
+          "author": "Akash",
+          "createdAt": "2025-01-23T07:51:37.346Z",
+          "id": "vjojqrq72",
+          "text": "hello"
+        }
+      ],
+      "date": "2025-01-16",
+      "description": "test dewsc2222",
+      "dislikes": [],
+      "endTime": "11:45",
+      "googleMapsUrl": "https://www.google.com/maps/dir//Kurakkanni,+Inda+Hotel,+1%2F153a,+Varkala,+Kerala+695141/@8.7386943,76.6196241,27847m/data=!3m1!1e3!4m8!4m7!1m0!1m5!1m1!1s0x3b05ef1ba001f55b:0x47271e719215bcf!2m2!1d76.702026!2d8.7387032?entry=ttu&g_ep=EgoyMDI1MDEyMC4wIKXMDSoASAFQAw%3D%3D",
+      "id": "2265fd83-d791-4b7d-b070-c91059bedd7d",
+      "lastModified": "2025-01-23T15:54:58.368949",
+      "likes": [
+        "Akash"
+      ],
+      "location": "test222",
+      "poll": {
+        "id": "03grdm4js",
+        "options": [
+          {
+            "id": "flyhecfsn",
+            "text": "Yes",
+            "votes": [
+              "Akshai",
+              "Akash"
+            ]
+          },
+          {
+            "id": "0lgjw5dh6",
+            "text": "No",
+            "votes": []
+          }
+        ],
+        "question": "Ok?"
+      },
+      "startTime": "11:30",
+      "title": "test1 edoited by akshai check ahgain"
+    }
+  ],
+  "deletedActivities": [
+    {
+      "comments": [],
+      "date": "2025-01-21",
+      "description": "",
+      "dislikes": [],
+      "endTime": "12:11",
+      "googleMapsUrl": "",
+      "id": "axqhp0s6f",
+      "lastModified": "2025-01-22T12:24:09.654Z",
+      "likes": [],
+      "location": "",
+      "startTime": "12:01",
+      "title": "Test1"
+    },
+    {
+      "comments": [
+        {
+          "createdAt": "2025-01-22T12:35:40.098Z",
+          "id": "w8xswag7e",
+          "text": "hello"
+        }
+      ],
+      "date": "2025-01-22",
+      "description": "",
+      "dislikes": [],
+      "endTime": "12:00",
+      "googleMapsUrl": "",
+      "id": "eoy5s2quj",
+      "lastModified": "2025-01-22T12:34:50.535Z",
+      "likes": [
+        null
+      ],
+      "location": "",
+      "startTime": "12:00",
+      "title": "Test"
+    },
+    {
+      "comments": [
+        {
+          "author": "Akash",
+          "createdAt": "2025-01-22T13:28:12.831Z",
+          "id": "r0zk2lz6z",
+          "text": "hello"
+        }
+      ],
+      "date": "2025-01-22",
+      "description": "",
+      "dislikes": [],
+      "endTime": "12:30",
+      "googleMapsUrl": "",
+      "id": "4xdbfbboc",
+      "lastModified": "2025-01-22T13:23:49.265Z",
+      "likes": [],
+      "location": "",
+      "startTime": "12:00",
+      "title": "test"
+    },
+    {
+      "comments": [
+        {
+          "author": "Akshai",
+          "createdAt": "2025-01-22T14:27:03.875Z",
+          "id": "mcgz9h2zz",
+          "text": "hello"
+        },
+        {
+          "author": "Akash",
+          "createdAt": "2025-01-22T15:26:50.736Z",
+          "id": "29469bczx",
+          "text": "hello2"
+        },
+        {
+          "author": "Akash",
+          "createdAt": "2025-01-23T04:09:39.477Z",
+          "id": "zimbdcyxa",
+          "text": "test comment added"
+        }
+      ],
+      "date": "2222-01-12",
+      "description": "",
+      "dislikes": [],
+      "endTime": "12:00",
+      "googleMapsUrl": "",
+      "id": "193eaf44-3483-4b75-81f5-f95eb2dd67ad",
+      "lastModified": "2025-01-22T13:36:03.834Z",
+      "likes": [],
+      "location": "",
+      "startTime": "12:00",
+      "title": "test"
+    },
+    {
+      "comments": [
+        {
+          "author": "Akshai",
+          "createdAt": "2025-01-22T14:27:03.875Z",
+          "id": "88jyopxfl",
+          "text": "hello"
+        },
+        {
+          "author": "Akash",
+          "createdAt": "2025-01-22T15:26:50.736Z",
+          "id": "qka5pgycs",
+          "text": "hello2"
+        },
+        {
+          "author": "Akash",
+          "createdAt": "2025-01-23T04:09:39.477Z",
+          "id": "prf8ftgyl",
+          "text": "test comment added"
+        }
+      ],
+      "date": "2025-01-15",
+      "description": "",
+      "dislikes": [],
+      "endTime": "13:00",
+      "googleMapsUrl": "",
+      "id": "f2d1fa14-b279-4471-9bbc-dd8ff52109e6",
+      "lastModified": "2025-01-22T14:26:11.645Z",
+      "likes": [
+        "Akash"
+      ],
+      "location": "",
+      "startTime": "12:30",
+      "title": "test2"
+    },
+    {
+      "comments": [],
+      "date": "2025-01-15",
+      "description": "",
+      "dislikes": [],
+      "endTime": "12:33",
+      "googleMapsUrl": "",
+      "id": "vtfn0mzno",
+      "lastModified": "2025-01-22T12:24:33.924Z",
+      "likes": [],
+      "location": "",
+      "startTime": "12:11",
+      "title": "Test1"
+    },
+    {
+      "comments": [],
+      "date": "2025-01-15",
+      "description": "",
+      "dislikes": [],
+      "endTime": "12:45",
+      "googleMapsUrl": "",
+      "id": "mjgqb63bc",
+      "lastModified": "2025-01-22T12:23:00.149Z",
+      "likes": [],
+      "location": "",
+      "startTime": "12:30",
+      "title": "Test"
+    }
+  ]
+}
